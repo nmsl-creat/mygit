@@ -24,5 +24,4 @@ public class ZhangWenZhi {
 	public void setPassword(int password) {
 		this.password = password;
 	}
-	
 }
