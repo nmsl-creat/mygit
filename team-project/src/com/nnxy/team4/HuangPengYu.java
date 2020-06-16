@@ -1,9 +1,6 @@
 package com.nnxy.team4;
 
-public class Test4 {
-
-
-
+public class HuangPengYu {
 	private int id;
 	
 	public int getId() {
@@ -13,6 +10,4 @@ public class Test4 {
 	public void setId(int id) {
 		this.id = id;
 	}
-
-	
 }
